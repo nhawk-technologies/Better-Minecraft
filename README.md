@@ -1,4 +1,5 @@
-# If you need potato mode. [Read This](potato mode.md)
+# If you need potato mode. 
+[Read This](potato mode.md)
 # Installation Tutorial
 1. Download files 
 ![Loading Example...](https://i.imgur.com/WUHhlBa.gif)
