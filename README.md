@@ -1,5 +1,5 @@
 # If you need potato mode. 
-![Read This](potato mode.md)
+![Read This](https://github.com/nhawk-technologies/Better-Minecraft/blob/main/potato%20mode.md)
 # Installation Tutorial
 1. Download files 
 ![Loading Example...](https://i.imgur.com/WUHhlBa.gif)
