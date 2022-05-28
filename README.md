@@ -1,6 +1,6 @@
 # Installation Tutorial
-1. Download files
-
+1. Download files 
+![Loading Example...](https://i.imgur.com/WUHhlBa.gif)
 2. Open Curse and launch minecraft 
 ![Loading Example...](https://i.imgur.com/BMuBWXG.gif)
 3. Click on installations tab & then click on the folder icon 
